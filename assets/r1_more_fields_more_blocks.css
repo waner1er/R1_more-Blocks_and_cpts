@@ -1,0 +1,27 @@
+/*block Example */
+.block-r1-carbon-example {
+    background: lightgrey;
+    box-shadow: 1px 1px 5px gray;
+    width: 350px;
+    margin: 1em;
+}
+
+.r1-carbon-example-title h3{
+    text-shadow: #000 1px 1px, #000 -1px 1px, #000 -1px -1px, #000 1px -1px;
+    color: #fff!important;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1rem;
+}
+.r1-carbon-example-image {
+    width: fit-content;
+    margin: auto;
+}
+
+.r1-carbon-example-sentence {
+    /*text-align: center;*/
+    /*color: #fff;*/
+    /*font-size: 2rem;*/
+}
+
+/* block circle skills */
